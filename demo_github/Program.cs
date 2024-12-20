@@ -29,4 +29,4 @@ app.Run();
 
 
 // Tôi sẽ không bao giờ bỏ cuộc, tôi sẽ trở thành một developer giỏi và thành công trong sự nghiệp.
-// Nhất định tôi sẽ làm được điều đó và không bao giờ bỏ cuộc với những mục tiêu của mình.
+//Tôi sẽ thực hiện được.
